@@ -1,4 +1,4 @@
-#Task4 Rock_paper_scissors
+#Task5 Rock_paper_scissors
 
 import random
 
